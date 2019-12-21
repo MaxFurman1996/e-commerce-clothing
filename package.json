@@ -2,8 +2,8 @@
   "name": "e-commerce-clothing",
   "version": "1.0.0",
   "engines": {
-      "node": "12.5.0",
-      "npm": "6.10.1"
+    "node": "12.5.0",
+    "npm": "6.10.1"
   },
   "scripts": {
     "client": "cd client && npm start",
